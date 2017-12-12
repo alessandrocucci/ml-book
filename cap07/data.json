@@ -1,0 +1,50 @@
+[
+  {
+    "classe": "introduzione",
+    "domande": [
+      "Ciao", "Avrei bisogno di una informazione", 
+      "Buongiorno", 
+      "Salve"
+    ],
+    "risposte": [
+      "Buongiorno, in cosa possiamo esserle utili?", 
+      "Salve, serve aiuto?"
+    ]
+  },
+  {
+    "classe": "menu",
+    "domande": [
+      "Qual'è il piatto tipico?", 
+      "Avete solo pesce?"
+    ],
+    "risposte": [
+      "Forniamo un'ampia scelta di piatti, guardi il menu direttamente sul sito [link]", 
+      "Noi consigliamo gli spaghetti all'aragostina, ma tutto il menu lo può trovare sul sito: [link]"
+    ],
+    "contesto": "ristorante"
+  },
+  {
+    "classe": "pagamento",
+    "domande": [
+      "Accettate carte di credito?", 
+      "Posso pagare con la PostePay?", 
+      "Posso pagare solo in contanti?" 
+    ],
+    "risposte": [
+      "Oltre ai contanti, accettiamo VISA e Mastercard"
+    ],
+    "contesto": "ristorante"
+  },
+  {
+    "classe": "pagamento_escursioni",
+    "domande": [
+      "Accettate carte di credito durante le escursioni?", 
+      "Posso pagare solo in contanti mentre siamo all'aperto?",
+      "Avete disponibilità del pos anche durante le escursioni?"
+    ],
+    "risposte": [
+      "Per questioni pratiche, accettiamo solo contanti, in quanto le escursioni sono all'aperto"
+    ],
+    "contesto": "escursioni"
+  }
+]
