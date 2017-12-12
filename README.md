@@ -18,7 +18,7 @@ in questo repository Git, eseguire il relativo notebook mentre si legge il capit
 tanto a modificare il codice.
 
 Per eseguire il codice avrete bisogno di una macchina con Git installato ([https://git-scm.com/](https://git-scm.com/)),
-e un interprete Python 3 (scaricate [Anaconda](https://www.anaconda.com/download/), che ha tutto quello che vi serve, in modo da non dover impazzire poi nell'installazione dei vari moduli aggiuntivi).
+e un interprete Python 3 (scaricate [Anaconda](https://www.anaconda.com/download/), che ha tutto quello che vi serve per non impazzire nell'installazione dei vari moduli aggiuntivi).
 
 Una volta che avrete installato Git e Anaconda, scaricate il codice usando:
 ```sh
@@ -28,7 +28,7 @@ $ conda install numpy pandas matplotlib tensorflow jupyter ipython scikit-learn
 $ pip install tflearn
 ```
 
-Installati i pacchetti necessare, avviate Jupyter per iniziare a lavorare:
+Installati i pacchetti necessari, avviate Jupyter per iniziare a lavorare:
 ```sh
 $ jupyter notebook
 ```
