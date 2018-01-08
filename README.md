@@ -6,7 +6,7 @@
 ![](cover.jpg) 
 
 In questo repository troverete tutto il codice, l'indice e l'*errata corrige*
-del mio libro "A tu per tu col Machine Learning", pubblicato da [thedotcompany](http://www.thedotcompany.it/).
+del mio libro "A tu per tu col Machine Learning", pubblicato da [thedotcompany](http://www.thedotcompany.it/) e in vendita [qui](https://www.amazon.it/per-col-machine-learning-Lincredibile/dp/8899257450).
 
 
 ## Installazione
