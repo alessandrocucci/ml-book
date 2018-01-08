@@ -1,5 +1,11 @@
 # Errata Corrige
 ##### Errori nella prima stampa del volume *A tu per tu col **Machine Learning***
+2 Gb di RAM
+
+#### Introduzione
+| **Pagina** | **Riga** | **Errata** | **Corrige** |
+|------|------|------------|-------------|
+| 2     | 16   | 2 Gb di RAM  | 32 Mb di RAM   |
 
 #### Capitolo 1
 | **Pagina** | **Riga** | **Errata** | **Corrige** |
